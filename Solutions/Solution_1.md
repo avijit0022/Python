@@ -1,7 +1,7 @@
 ## Find the solution below
 <br>
 
-```Python
+```python
 def arithmetic_arranger(problems,b=False):
     if len(problems)>5:
       i="Error: Too many problems."
