@@ -1,5 +1,5 @@
 ## Find the solution below
-```python
+```Python
 def arithmetic_arranger(problems,b=False):
     if len(problems)>5:
       i="Error: Too many problems."
@@ -60,4 +60,4 @@ def arithmetic_arranger(problems,b=False):
       if b==True:
         s=s+s4
       return s  
-    
+```
