@@ -1,6 +1,4 @@
 ## Find the solution below
-<br>
-
 ```python
 def arithmetic_arranger(problems,b=False):
     if len(problems)>5:
