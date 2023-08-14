@@ -38,7 +38,6 @@
  # About me
  
 <p>
- <img align="right" width="350" src="/assets/programmer.gif" alt="Coding gif" />
   
  ✌️ &emsp; The Coding Guy <br/><br/>
  ❤️ &emsp; Love to writing code and learning new features<br/><br/>
