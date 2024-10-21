@@ -1,9 +1,5 @@
 ## Find the solution below
 
-<span style="color:red;">Text content</span>
-<br>
-<br>
-
 ```Python
 def arithmetic_arranger(problems,b=False):
     if len(problems)>5:
