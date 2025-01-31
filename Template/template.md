@@ -1,8 +1,8 @@
 # Python Code Templates
 
 **Table of Contents :**
-1. LCM of 2 Numbers
-2. Formulas for Consecutive Numbers
+1. [LCM of 2 Numbers](#1-lcm-of-2-numbers)
+2. [Formulas for Consecutive Numbers](#2-formulas-for-consecutive-numbers)
 
 ## 1. LCM of 2 Numbers
 ```Python
