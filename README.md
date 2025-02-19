@@ -76,4 +76,4 @@
 2.3 [Solution 3](https://avijit0022.github.io/Python/Solutions/Solution_3)
 
 ## 3. Templates
-[Code Templates]((https://avijit0022.github.io/Python/Template/Template)
+[Code Templates](https://avijit0022.github.io/Python/Template/template)
